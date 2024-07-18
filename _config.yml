@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'Swift的垃圾回收站'
-subtitle: ''
-description: ''
-keywords:
+title: '作家大种马'
+subtitle: 'GC'
+description: '大风起兮云飞扬'
+keywords: '区块链,数字货币,加密货币,以太坊,比特币,泰达币,交易所,Golang,前端'
 author: Swift
-language: zh
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -40,19 +40,19 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
 highlight:
-  line_number: true
+  line_number: false
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
   preprocess: true
-  line_number: true
+  line_number: false
   tab_replace: ''
 
 # Home page setting

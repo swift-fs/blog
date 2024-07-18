@@ -1,5 +1,8 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+updated: {{ date }}
+top_img: /images/top-img-post.jpg
+tags: []
+categories: []
 ---
